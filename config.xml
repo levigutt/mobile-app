@@ -20,5 +20,5 @@
 	<platform name="ios" />
 	<platform name="android" />
 	<platform name="winphone" />
-
+	
 </widget>
