@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.heleru.tm" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.heleru.mobile-app" version="1.0.0">
   <name>Mobile App</name>
   <description>Application</description>
   <author href="http://heleru.no" email="support@heleru.no">Heleru DevTeam</author>
