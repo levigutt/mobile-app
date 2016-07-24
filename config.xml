@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.heleru.tm" version="1.0.0">
   <name>TM Mobile App</name>
-  <description>Application for TM</description>
+  <description>Application</description>
   <author href="http://heleru.no" email="support@heleru.no">Heleru DevTeam</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
